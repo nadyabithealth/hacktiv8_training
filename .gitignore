@@ -1,4 +1,11 @@
-.ipynb_checkpoints
-__pycache__
-*/.ipynb_checkpoints
-__pycache__/*
+# Ignore Jupyter Notebook checkpoints and Python cache
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignore specific file
+Sesi_24-Assignment/london_crime_by_lsoa.csv
+
+# Ignore files in subdirectories
+*/.ipynb_checkpoints/
+*/__pycache__/
+Sesi_24-Assignment/london_crime_by_lsoa.csv/*
