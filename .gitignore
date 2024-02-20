@@ -2,10 +2,10 @@
 .ipynb_checkpoints/
 __pycache__/
 
-# Ignore specific file
+# Ignore specific files
 Sesi_24-Assignment/london_crime_by_lsoa.csv
+Assignment_31/nyc-rolling-sales.csv
 
 # Ignore files in subdirectories
 */.ipynb_checkpoints/
 */__pycache__/
-Sesi_24-Assignment/london_crime_by_lsoa.csv/*
